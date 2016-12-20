@@ -1,3 +1,4 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">mLZamQHSfa7OfgOGofdFOKe_W8i_EyWZQFMNM</string>
     <string name="app_name">CivicActionMobile</string>
 </resources>

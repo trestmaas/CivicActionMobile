@@ -1,6 +1,7 @@
 package com.civicactionmobile;
 
 import com.facebook.react.ReactActivity;
+import com.microsoft.codepush.react.CodePush;
 
 public class MainActivity extends ReactActivity {
 
